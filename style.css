@@ -1,0 +1,61 @@
+html {
+  /* Herencia de estilos */
+  font-family: "Lato", sans-serif;
+  background-image: url("img.png");
+}
+
+.top-section {
+  font-size: 20px;
+  width: 650px;
+  border-width: 3px;
+  border-style: double;
+  border-color: #cae5e9;
+  background-color: #cae5e9;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.circle-image {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.title {
+  float: right;
+  margin-right: 70px;
+}
+
+.body-section {
+  width: 655px;
+  height: 1170px;
+  background-color: #fff;
+  padding-top: 10px;
+}
+
+.label {
+  color: #0000ff;
+}
+
+.data {
+  line-height: 0.5px;
+  float: left;
+  width: 50%;
+}
+
+.quote {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.back-section {
+  font-size: 20px;
+  width: 650px;
+  height: 100px;
+  border-width: 3px;
+  border-style: double;
+  border-color: #cae5e9;
+  background-color: #cae5e9;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
